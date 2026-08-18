@@ -47,8 +47,7 @@ The dataset satisfies the assignment requirements of having at least
 ## 3. GitHub Repository Link
 
 Repository link:
-
-[ADD YOUR GITHUB LINK HERE]
+https://github.com/Shruti-ML/ML-Classification-Assignment
 
 ---
 
