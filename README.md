@@ -213,7 +213,9 @@ The application provides the following features:
 
 ### Live Streamlit Application
 
-[ADD YOUR STREAMLIT LINK HERE]
+## Streamlit App Link
+
+Deployment is currently in progress.
 
 ---
 
